@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @samuelospinaa
 
 - 👀 I’m interested in creating real-world solutions that make an impact.
-- 🌱 I’m currently learning advanced full stack development and exploring cloud technologies.
+- 🌱 I’m currently working with full stack development and exploring cloud technologies.
 - 💞️ I’m looking to collaborate on innovative projects, especially those in web development, mobile apps, or real-time systems.
 - 📫 How to reach me: 
   - Email: samuelospina443@gmail.com
