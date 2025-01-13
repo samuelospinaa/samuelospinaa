@@ -38,8 +38,3 @@
 
 <h4 align="center">👀 I’m interested in creating real-world solutions that make an impact.<br><br>💞️ I’m looking to collaborate on innovative projects, especially those in web development, mobile apps, or real-time systems.<br><br>📫 How to reach me:<br>Email:<br> samuelospina443@gmail.com<br><br>LinkedIn: <br>https://www.linkedin.com/in/samuelospinagutierrez<br><br>GitHub: @samuelospinaa<br><br>🌍 Based in Medellín, I am passionate about using technology to solve real-world challenges and improve people's lives. Let’s create something amazing together!</h4>
 
-###
-
-<img src="https://raw.githubusercontent.com/samuelospinaa/samuelospinaa/output/snake.svg" alt="Snake animation" />
-
-###
